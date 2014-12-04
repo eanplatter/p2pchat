@@ -1,0 +1,22 @@
+{
+    "name": "pierJS",
+    "version": "0.0.0",
+    "description": "ReactJS Chat with PeerJS",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "keywords": [
+        "webrtc",
+        "nodejs",
+        "react",
+        "javascript"
+    ],
+    "author", "ean",
+    "license": "MIT",
+    "dependencies": {
+        "express": "~4.8.4",
+        "peer": "~0.2.6",
+        "socket.io": "~1.0.6"
+    }
+}
