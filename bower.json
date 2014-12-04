@@ -1,6 +1,6 @@
 {
   "name": "react-peerjs",
-  "main": "index.js",
+  "main": "server.js",
   "version": "0.0.0",
   "authors": [
     "ean"
